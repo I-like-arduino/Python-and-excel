@@ -42,7 +42,7 @@ Portanto, existem dois arquivos neste repositório: o arquivo excel no qual cont
 
 # Sobre...
 
-Contexto lógico do programa: ele faz cinco perguntas
+Contexto lógico do programa: ele faz cinco perguntas...
 Qual é o seu nome?
 Qual é o nome do seu anúncio?
 Qual é a data de início da publicação?
