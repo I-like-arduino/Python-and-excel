@@ -26,7 +26,11 @@ And then, based on some simple calculations, it will return into the excel file 
 BUT, before registering those informations onto the excel file, it will ask you if you want to. Just answer 'Sim' to get your data registered in the Excel file after
 ending the execution of the code.
 
+----------
+
 # PT-BR
+
+----------
 
 Meu projeto é um código em Python que se comunica com um arquivo excel. O excel funciona basicamente como um banco de dados, sendo que a programação python acessa e altera esses dados executando alguns comandos simples.
 
