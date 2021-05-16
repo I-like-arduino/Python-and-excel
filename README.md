@@ -9,7 +9,7 @@ So, there are two files in this repository: the excel file in which contains an 
 
 # About
 
-Program's logical context: It asks you five questions
+Program's logical context: It asks you five questions...
 What is your name?
 What is the name of your ad?
 What is the date of the start of publication?
